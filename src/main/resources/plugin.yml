@@ -1,0 +1,10 @@
+main: net.wdlvn.multicraft.MultiCraft
+version: 1.0
+name: MultiCraft
+depend: [ItemSystem]
+commands:
+  multicraft:
+permissions:
+  multicraft.admin:
+  multicraft.quickcommand:
+  multicraft.list:
